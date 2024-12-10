@@ -92,5 +92,3 @@ Here are some sample screenshots of the Power BI visualizations:
   ![Acotr Dimension Job](screenshots/ActorDimensionJob.png)
 
 ---
-
-This version provides a comprehensive and professional look at your project, from data collection and transformation to final visualizations. Feel free to adjust or add more content as necessary!
