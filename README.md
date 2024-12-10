@@ -89,7 +89,7 @@ Here are some sample screenshots of the Power BI visualizations:
 
 - **Talned Jobs**  
   ![Movie Fact Job](screenshots/MoviesFactJob.png)
-  ![Acotr Dimension Job](screenshots/ActorDimension.png)
+  ![Acotr Dimension Job](screenshots/ActorDimensionJob.png)
 
 ---
 
