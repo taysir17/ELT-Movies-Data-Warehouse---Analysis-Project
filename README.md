@@ -46,7 +46,7 @@ To set up this project locally, you’ll need the following:
 ### **Steps to Run** 📋
 
 1. **Set up the ETL Process**:
-   - Import the Talend jobs from the `/Project/Movies_V1` folder.
+   - Import the Talend jobs from the `/TalendProject/PROJECTDWH` folder.
    - Execute the jobs to extract, transform, and load the IMDb data into the database.
    
 2. **Connect Power BI**:
