@@ -82,13 +82,14 @@ Contributions are welcome! If you’d like to contribute to the project, feel fr
 Here are some sample screenshots of the Power BI visualizations:
 
 - **Power BI Dashboard Overview**  
-  ![Dashboard Overview](screenshots/dashboard-overview.png)
+  ![Dashboard Overview](screenshots/MainDashboard.png)
+  
+- **Revenue Analysis Visualization**  
+  ![Revenue Insight Overview](screenshots/RevenueInsight.png)
 
-- **Genre Analysis Visualization**  
-  ![Genre Analysis](screenshots/genre-analysis.png)
-
-- **Director and Studio Performance Insights**  
-  ![Director Performance](screenshots/director-performance.png)
+- **Talned Jobs**  
+  ![Movie Fact Job](screenshots/MoviesFactJob.png)
+  ![Acotr Dimension Job](screenshots/ActorDimension.png)
 
 ---
 
